@@ -1,3 +1,2 @@
-#!/user/bin/env bash
-# create an empty file name hello
+#!/bin/bash
 touch hello
